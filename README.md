@@ -37,7 +37,7 @@
   <a href="https://instagram.com/gragi.04"><img alt="Instagram" title="gragi-1 Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="grageraserradillaalejandro@gmail.com"><img alt="Gmail" title="gragi-1 Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:grageraserradillaalejandro@gmail.com"><img alt="Gmail" title="gragi-1 Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=""><img alt="Twitter" title="gragi-1 Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href=""><img alt="Discord" title="gragi-1 Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
