@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gragi-1</h1>
 
+<br>
 
 # 💫 About Me:
 🚀 Journeying Through: Currently being a student at the Polytechnic University of Madrid (UPM), while also navigating the intricate world of Mathematics and computer science.<br>🌐 Team Ups: Open to collaboration! Whether it's delving into the depths of backend systems, graphics programming, or designing robust architectures, count me in.<br>📘 Current Quest: Mastering the power of C++, while also immersing myself in the realms of low-level programming and architecture design.<br>🔍 My Specialty: Bridging the realms of low-level programming, graphics, and architecture design. Interested in exploring these domains? Let's connect!<br>🌟 Did You Know?: Despite my penchant for low-level programming, I thrive on challenges and strive to excel in every aspect of software development.
