@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gragi-1</h1>
 
-<br>
 
 # 💫 About Me:
 🚀 Journeying Through: Currently being a student at the Polytechnic University of Madrid (UPM), while also navigating the intricate world of Mathematics and computer science.<br>🌐 Team Ups: Open to collaboration! Whether it's delving into the depths of backend systems, graphics programming, or designing robust architectures, count me in.<br>📘 Current Quest: Mastering the power of C++, while also immersing myself in the realms of low-level programming and architecture design.<br>🔍 My Specialty: Bridging the realms of low-level programming, graphics, and architecture design. Interested in exploring these domains? Let's connect!<br>🌟 Did You Know?: Despite my penchant for low-level programming, I thrive on challenges and strive to excel in every aspect of software development.
@@ -30,6 +29,21 @@
 
 ------
 
+## Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/alejandro-gragera-serradilla"><img alt="Linkedin" title="Gragi-1 Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/gragi-1"><img alt="Github" title="gragi-1 Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/gragi.04"><img alt="Instagram" title="gragi-1 Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="grageraserradillaalejandro@gmail.com"><img alt="Gmail" title="gragi-1 Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href=""><img alt="Twitter" title="gragi-1 Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href=""><img alt="Discord" title="gragi-1 Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
+------
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -39,3 +53,4 @@
 ------
 
 Credit: [gragi-1](https://github.com/gragi-1)
+
