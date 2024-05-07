@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gragi-1</h1>
 
-<!--
-**gragi-1/gragi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💫 About Me:
+🚀 Journeying Through: Currently being a student at the Polytechnic University of Madrid (UPM), while also navigating the intricate world of Mathematics and computer science.<br>🌐 Team Ups: Open to collaboration! Whether it's delving into the depths of backend systems, graphics programming, or designing robust architectures, count me in.<br>📘 Current Quest: Mastering the power of C++, while also immersing myself in the realms of low-level programming and architecture design.<br>🔍 My Specialty: Bridging the realms of low-level programming, graphics, and architecture design. Interested in exploring these domains? Let's connect!<br>🌟 Did You Know?: Despite my penchant for low-level programming, I thrive on challenges and strive to excel in every aspect of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
+
+------
+
+# 📊 GitHub Stats:
+<div align="center">
+
+<a href="https://github.com/gragi-1/">
+  <img src="https://github-readme-stats.vercel.app/api?username=gragi-1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gragi-1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="gragi-1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gragi-1&theme=dark&hide_border=false"/>
+
+</a>
+</div>
+
+------
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gragi-1&theme=onedark&no-frame=true&no-bg=false&margin-w=5)
+
+------
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gragi-1&icon=2&color=4)](https://visitcount.itsvg.in)
+
+------
+
+Credit: [gragi-1](https://github.com/gragi-1)
