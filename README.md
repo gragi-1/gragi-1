@@ -50,9 +50,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=gragi-1&icon=2&color=4)](https://visitcount.itsvg.in)
-
 ------
 
 Credit: [gragi-1](https://github.com/gragi-1)
