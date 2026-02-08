@@ -18,14 +18,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gragi-1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gragi-1's Top Languages" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gragi-1&theme=dark&hide_border=true" alt="gragi-1's Streak Stats" />
-</div>
-
 ------
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gragi-1&theme=onedark&no-frame=true&no-bg=false&margin-w=5)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gragi-1&theme=onedark&no-frame=true&no-bg=false&margin-w=5" alt="gragi-1's GitHub Trophies" />
+</div>
 
 ------
 
@@ -54,3 +53,4 @@
 ------
 
 Credit: [gragi-1](https://github.com/gragi-1)
+
