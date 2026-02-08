@@ -12,12 +12,14 @@
 ------
 
 # 📊 GitHub Stats:
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gragi-1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gragi-1's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gragi-1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gragi-1's Top Languages" height="170" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gragi-1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="gragi-1's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gragi-1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gragi-1's GitHub Stats" />
-
-</a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gragi-1&theme=dark&hide_border=true" alt="gragi-1's Streak Stats" />
 </div>
 
 ------
@@ -33,13 +35,11 @@
   <a href="https://linkedin.com/in/alejandro-gragera-serradilla"><img alt="Linkedin" title="Gragi-1 Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/gragi-1"><img alt="Github" title="gragi-1 Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/gragi.04"><img alt="Instagram" title="gragi-1 Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- </p>
- <p align="center">
+</p>
+<p align="center">
   <a href="mailto:grageraserradillaalejandro@gmail.com"><img alt="Gmail" title="gragi-1 Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=""><img alt="Discord" title="gragi-1 Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://leetcode.com/u/Gragix/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
-</a>
+  <a href="https://leetcode.com/u/Gragix/"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/></a>
 </p>
 
 ------
@@ -49,5 +49,8 @@
 
 ------
 
-Credit: [gragi-1](https://github.com/gragi-1)
+[![](https://visitcount.itsvg.in/api?id=gragi-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+------
+
+Credit: [gragi-1](https://github.com/gragi-1)
