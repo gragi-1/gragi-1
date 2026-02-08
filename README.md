@@ -48,9 +48,5 @@
 
 ------
 
-[![](https://visitcount.itsvg.in/api?id=gragi-1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-------
-
 Credit: [gragi-1](https://github.com/gragi-1)
 
